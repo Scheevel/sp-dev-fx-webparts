@@ -38,7 +38,7 @@ userAADGUID| Text| no | required if used Azure Function to get Birthdays from AA
 Title| Text| true
 email| Text| true
 
-## After create a column Index on column "Brithday" - Important!
+## After create a column Index on column "Birthday" - Important!
 
 ## Solution
 
